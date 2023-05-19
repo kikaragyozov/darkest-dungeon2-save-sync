@@ -63,7 +63,7 @@ Guest users can join a shared save only after being invited by the owner to beco
    * This is a known issue. If you have the time, feel free to submit a pull request fixing this. The workaround is to do a full config reset, instead of using the 'modify' feature.
 
 6. Nothing works! It's all a mess! What have you done!?
-   * The application was written rather hastily. If you spot any bugs, or issues, feel free to open an issue on Github. Contributions are also welcome. It cannot delete your local files, unless you explicitly agree to it.
+   * The application was written rather hastily. If you spot any bugs, or issues, feel free to open an issue on Github. Contributions are also welcome.
 
 For more complex issues, please consider opening an issue on GitHub.
 
